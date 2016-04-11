@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fiap Player</string>
+    <string name="song_name">FIAP - MUSIC PLAYER</string>
+    <string name="add_widget">Adicione o widget</string>
+    <string name="label_select_song">Selecione uma música:</string>
+    <string name="label_lyrics">Letra by Vagalume</string>
+    <string name="label_external_storage_permission_required">Permissão requerida</string>
+    <string name="message_external_storage_permission_required">O app depende da permissão de leitura do sdcard para listar e tocar suas músicas. Libera aí, vai? =]</string>
+    <string name="message_external_storage_permission_denied">Sem permissão não é possível exibir as músicas.</string>
+    <string name="label_system_alert_permission_required">Permissão necessária</string>
+    <string name="message_system_alert_permission_required">Sem permissão não é possível exibir a letra da música que está tocando. =/</string>
+</resources>
